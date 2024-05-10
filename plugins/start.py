@@ -89,7 +89,7 @@ async def start_command(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton("⚡️ ᴀʙᴏᴜᴛ", callback_data = "about"),
-                    InlineKeyboardButton('🍁 Premium', url='https://t.me/boobx_premium')
+                    InlineKeyboardButton('🍁 ᴘʀᴇᴍɪᴜᴍ', url='https://t.me/boobx_premium')
 ]
             ]
         )
